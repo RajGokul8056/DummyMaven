@@ -8,7 +8,7 @@ public class NewClass {
 		System.out.println("pleasureee");
 		System.out.println("pleasureesse");
 
-		
+		//gokyuyuuuuuu
 
 		System.out.println("pleasureesse");
 		//commm
