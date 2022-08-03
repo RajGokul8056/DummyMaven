@@ -7,7 +7,7 @@ public class NewClass {
 
 		System.out.println("pleasureee");
 		System.out.println("pleasureesse");
-
+// gopuuuuuuuuuuuuu viki
 		//gokyuyuuuuuu
 
 		System.out.println("pleasureesse");
