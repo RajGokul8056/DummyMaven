@@ -9,7 +9,7 @@ public class NewClass {
 		System.out.println("pleasureesse");
 // gopuuuuuuuuuuuuu viki
 		//gokyuyuuuuuu
-
+//voi
 		System.out.println("pleasureesse");
 		//commm
 	}
